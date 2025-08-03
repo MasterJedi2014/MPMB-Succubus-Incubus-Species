@@ -68,6 +68,10 @@ Including the following variant of the **Silver Tongue** Trait would make this s
 
 ***Silver Tongue.*** You have proficiency with the Persuasion skill. Growing up you had moments where you were unusually persuasive for reasons you couldn't fathom, but you have since learned how to control this ability of yours. At a Character Level of the DM's choice, you gain an ability wherein if you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature's Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is magically charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
 
+## Script Patch Notes:
+- **2025-08-03:**
+  - Initial upload of script (V3).
+
 ## Known Bugs:
 - Will alter when one is found.
 
