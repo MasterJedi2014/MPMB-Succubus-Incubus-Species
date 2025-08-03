@@ -63,13 +63,15 @@ You decide what you look like, including your height, weight, facial features, t
 
 ***Wings.*** You have a pair of wings that give you a Flying Speed of 30 feet (9m). You cannot use this Fly Speed if you are wearing Medium or Heavy Armor or if your current form granted by your ***Shapechanger*** Trait does not have wings.
 
-***__Optional Trait Variant:__***
+### Optional Trait Variant:
 Including the following variant of the **Silver Tongue** Trait would make this species too powerful at Lvls 1-5, and as a result, it has been shunted into a variant that requires DM permission to use. Furthermore, though I the author suggests that the Charm effect come online at Character Levels 7-10 for balance purposes, the player should discuss with their DM when exactly the Charm effect of this Trait is granted to the player's character. Balance can also be maintained with the following logic: the earlier the Charm effect of this variant of the Silver Tongue Trait comes online, the less inclined the character should be to use it. This variant of the **Silver Tongue** Trait isn't coded into the script.
 
 ***Silver Tongue.*** You have proficiency with the Persuasion skill. Growing up you had moments where you were unusually persuasive for reasons you couldn't fathom, but you have since learned how to control this ability of yours. At a Character Level of the DM's choice, you gain an ability wherein if you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature's Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is magically charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
 
-**Known Bugs:**
+## Known Bugs:
 - Will alter when one is found.
+
+## Links:
 
 **Basis upon which this Species was made:**
 https://www.dandwiki.com/wiki/Succubus_(5e_Race)
