@@ -24,17 +24,6 @@ This species has a score of 35 on the “Detect Balance” tool by Eleazzaar & a
 | Planar Immortality      |   2   |
 | **Total**                   |  **35**   |
 
-60' Telepathy                     8
-Skill Prof (persuasion)           2
-1 Common Resistance               4
-1 Rare Vulnerability              -8
-Standard Fly 30                   16
-Darkvision 60'                    3
-Other Than Humanoid               2
-Shapechanger                      6
-Planar Immortality                2
-**Total**                             **35**
-
 # Species Information:
 ## General Description:
 Succubi are the iconic depiction of lust. Feared for their typically evil nature and ability to steal one's soul, succubi are Fiends who wield subtle illusions and enchantments to tempt their victims into forfeiting their eternal souls. Succubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.<br>
@@ -81,6 +70,9 @@ Including the following variant of the **Silver Tongue** Trait would make this s
 
 **Known Bugs:**
 - Will alter when one is found.
+
+**Basis upon which this Species was made:**
+https://www.dandwiki.com/wiki/Succubus_(5e_Race)
 
 **Homebrewery Link:**
 https://homebrewery.naturalcrit.com/share/HHn06Z-13RT7
